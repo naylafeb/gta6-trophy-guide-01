@@ -1,5 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"1-cover.jpg","path":"/?spoiler=0","viewport":{"height":900,"width":1280}},{"file":"2-missable.jpg","note":"Positive Mental Attitude card with its missable flag, guide and cited steps","path":"/?spoiler=0","viewport":{"height":900,"width":1280}},{"file":"3-checklist.jpg","note":"Missable audit and the start of the 55-trophy checklist","path":"/?spoiler=0","viewport":{"height":900,"width":1280}},{"file":"4-spoiler.jpg","note":"Spoiler setting on: story trophies hidden until earned","path":"/?spoiler=1","viewport":{"height":900,"width":1280}}]
